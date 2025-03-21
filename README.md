@@ -11,4 +11,4 @@
 ## Year Level
 **2nd Year (2nd Trimester)**
 
-This dataset is about student records. Let's dive in and see what kinds of information we can gather from this dataset.
+This dataset is about student records. Let's dive in and see what kinds of information we can gather from this dataset. NOTE: If streamlit doesn't show the visuals, then the application needs to be run locally.
