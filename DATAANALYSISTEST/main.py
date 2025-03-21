@@ -6,7 +6,7 @@ import plotly.express as px
 
 def load_data():
     data = pd.read_csv(
-       "/data/Students_Grading_Dataset.csv",
+       "./data/Students_Grading_Dataset.csv",
         encoding='ISO-8859-1'
     )
     return data
